@@ -27,7 +27,7 @@ Therefore, we should be able to create rudimentary audiobooks using DNNs and voi
 - Export those chapters using ffmpeg to MP3 (VBR, Q3) or Opus.
 - Embed the relevant metadata (author, title, chapter number, chapter name) into the ID3 tag of those files.
 
-## Specific Packaages Used
+## Specific Packages Used
 - PaddlePaddle
 - epub2txt
 - ffmpeg
