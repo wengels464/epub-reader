@@ -1,4 +1,4 @@
-# EPUB2Audiobook (In Development)
+# EPUB2MP3 (In Development)
 
 ## Project Description
 A utility that uses PaddlePaddle to convert EPUBs into MP3 Audiobooks with several voice models.
